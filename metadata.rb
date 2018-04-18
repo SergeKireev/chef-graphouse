@@ -1,4 +1,4 @@
-name 'chef-graphouse'
+name 'graphouse'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'All Rights Reserved'
